@@ -20,10 +20,6 @@
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://velog.io/@js_moon/posts#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://velog.io/@js_moon/posts#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![LinkedIn][linkedin-shield]][linkedin-url]
-&nbsp;&nbsp;
-[![Twitter][twitter-shield]][twitter-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/[your-linkedin]
+[linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EB%AC%B8-103a72274/
