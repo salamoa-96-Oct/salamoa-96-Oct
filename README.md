@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:START --> https://velog.io/@js_moon/posts
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,java,git,github,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,jenkins,prometheus,docker&perline=3)](https://skillicons.dev)
 
 ### Connect with me:
 &nbsp;&nbsp;
