@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm jason 👋</h1>
-<h3 align="center">A passionate Aws SRE/Devops from korea </h3>
+<h3 align="center">A passionate Aws SRE/Devops </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salamoa-96-Oct&label=Profile%20views&color=0e75b6&style=flat" alt="salamoa-96-Oct" /> </p>
 
@@ -17,7 +17,6 @@
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://velog.io/@js_moon/posts#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://[your-website.com]#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555
