@@ -16,8 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,java,git,github,vscode&perline=5)](https://skillicons.dev)
 
 ### Connect with me:
-
-### Connect with me:
 [![website](./img/globe-light.svg)](https://velog.io/@js_moon/posts#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://velog.io/@js_moon/posts#gh-dark-mode-only)
 
