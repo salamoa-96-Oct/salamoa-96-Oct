@@ -22,4 +22,4 @@
 [![website](./img/globe-dark.svg)](https://velog.io/@js_moon/posts#gh-dark-mode-only)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EB%AC%B8-103a72274/
+[linkedin-url]: https://linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EB%AC%B8-103a72274/
